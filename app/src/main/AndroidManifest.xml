@@ -3,6 +3,7 @@
     package="com.android.hilt.demo">
 
     <application
+        android:name=".HiltApplication"
         android:allowBackup="true"
         android:label="HiltDemo"
         android:supportsRtl="true"

@@ -1,2 +1,3 @@
 rootProject.name = "HiltDemo"
 include ':app'
+include ':library'
